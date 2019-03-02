@@ -1,4 +1,4 @@
-package Request1;
+package exercise1;
 
 import java.util.Comparator;
 
